@@ -47,6 +47,3 @@ elif escolha == '4':
 
 else:
 	print("\nOpção Inválida!")
-
-	
-	
